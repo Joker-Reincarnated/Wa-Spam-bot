@@ -54,21 +54,16 @@ After starting the bot, you will be prompted for input in the terminal.
 2. **Step 2:** Enter the number of pairing codes to generate (default is 20 if left blank).
 3. The bot will generate and display pairing codes, sending them at intervals of 3000 ms (3 seconds).
 
-### Example Console Output:
+## Example Console Output:
 
-```bash
-*** WELCOME TO THE SPAM BOT ***
-Step 1: Please enter the target phone number eg 2340000000000:
-Target Phone Number: 2340000000000
+ ```bash
+ WELCOME TO THE SPAM BOT
+ Step 1: Please enter the target phone number eg 2340000000000:
+ Target Phone Number: 2340000000000
 
-Step 2: Enter the number of pairing codes you want to generate:
-Number of Pairing Codes (default 20): 10
+ Step 2: Enter the number of pairing codes you want to generate:
+ Number of Pairing Codes (default 20): 10
 
-Code 1 of 10 for 2340000000000: XXXX-XXXX-XXXX
-...
+ Code 1 of 10 for 2340000000000: XXXX-XXXX-XXXX
 
-## Disclaimer
-This tool is intended for educational purposes only. Misuse of this software to send unsolicited spam or for malicious purposes is strictly prohibited and illegal.
 
-## License 
-This `README.md` ensures compatibility with **Termux** and provides clear instructions on how to set up and run the bot.
